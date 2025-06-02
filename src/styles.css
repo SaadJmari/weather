@@ -1,0 +1,150 @@
+/* Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #111;
+    background-image: url("https://assets.codepen.io/7237686/bg.png?format=auto");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Header Section */
+header {
+    background-color: royalblue;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+form {
+    display: flex;
+    gap: 0.5rem;
+}
+
+input[type="text"],
+.user\.input {
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: none;
+    width: 250px;
+    font-size: 1rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: white;
+    color: royalblue;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
+}
+
+/* Suggestions */
+.suggestions {
+    list-style: none;
+    margin-top: 0.5rem;
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 250px;
+    max-height: 200px;
+    overflow-y: auto;
+    position: absolute;
+    top: 100%;
+    z-index: 10;
+}
+
+.suggestions li {
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.suggestions li:hover {
+    background-color: #f0f0f0;
+}
+
+/* Main Layout */
+main {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Today & Forecast Styling */
+.today {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.forecast {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+/* Cards */
+.card {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    min-width: 180px;
+    text-align: center;
+}
+
+/* Hourly Block */
+.hourly {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.hour {
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    padding: 0.5rem;
+    width: 70px;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.marquee {
+    z-index: -10;
+    position: fixed;
+    opacity: 0.8;
+    display: flex;
+    animation: marquee 150s linear infinite running;
+
+    .clouds {
+        width: 100%;
+    }
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}

@@ -1,0 +1,626 @@
+[
+    {
+        "city": "Casablanca",
+        "country": "MA"
+    },
+    {
+        "city": "Rabat",
+        "country": "MA"
+    },
+    {
+        "city": "Marrakech",
+        "country": "MA"
+    },
+    {
+        "city": "Fès",
+        "country": "MA"
+    },
+    {
+        "city": "Tangier",
+        "country": "MA"
+    },
+    {
+        "city": "Agadir",
+        "country": "MA"
+    },
+    {
+        "city": "Meknès",
+        "country": "MA"
+    },
+    {
+        "city": "Oujda",
+        "country": "MA"
+    },
+    {
+        "city": "Tétouan",
+        "country": "MA"
+    },
+    {
+        "city": "Safi",
+        "country": "MA"
+    },
+    {
+        "city": "El Jadida",
+        "country": "MA"
+    },
+    {
+        "city": "Khouribga",
+        "country": "MA"
+    },
+    {
+        "city": "Beni Mellal",
+        "country": "MA"
+    },
+    {
+        "city": "Errachidia",
+        "country": "MA"
+    },
+    {
+        "city": "Nador",
+        "country": "MA"
+    },
+    {
+        "city": "Kenitra",
+        "country": "MA"
+    },
+    {
+        "city": "Taza",
+        "country": "MA"
+    },
+    {
+        "city": "Khemisset",
+        "country": "MA"
+    },
+    {
+        "city": "Guelmim",
+        "country": "MA"
+    },
+    {
+        "city": "Ouarzazate",
+        "country": "MA"
+    },
+    {
+        "city": "Laayoune",
+        "country": "MA"
+    },
+    {
+        "city": "Mohammedia",
+        "country": "MA"
+    },
+    {
+        "city": "Settat",
+        "country": "MA"
+    },
+    {
+        "city": "Berrechid",
+        "country": "MA"
+    },
+    {
+        "city": "Tiznit",
+        "country": "MA"
+    },
+    {
+        "city": "Larache",
+        "country": "MA"
+    },
+    {
+        "city": "Al Hoceima",
+        "country": "MA"
+    },
+    {
+        "city": "Taourirt",
+        "country": "MA"
+    },
+    {
+        "city": "Berkane",
+        "country": "MA"
+    },
+    {
+        "city": "Temara",
+        "country": "MA"
+    },
+    {
+        "city": "Sidi Slimane",
+        "country": "MA"
+    },
+    {
+        "city": "Sidi Bennour",
+        "country": "MA"
+    },
+    {
+        "city": "Sidi Kacem",
+        "country": "MA"
+    },
+    {
+        "city": "Taroudant",
+        "country": "MA"
+    },
+    {
+        "city": "Azilal",
+        "country": "MA"
+    },
+    {
+        "city": "Zagora",
+        "country": "MA"
+    },
+    {
+        "city": "Tan-Tan",
+        "country": "MA"
+    },
+    {
+        "city": "Azemmour",
+        "country": "MA"
+    },
+    {
+        "city": "Ksar el-Kebir",
+        "country": "MA"
+    },
+    {
+        "city": "Midelt",
+        "country": "MA"
+    },
+    {
+        "city": "Essaouira",
+        "country": "MA"
+    },
+    {
+        "city": "Kalaat Mgouna",
+        "country": "MA"
+    },
+    {
+        "city": "Youssoufia",
+        "country": "MA"
+    },
+    {
+        "city": "Tinghir",
+        "country": "MA"
+    },
+    {
+        "city": "Chefchaouen",
+        "country": "MA"
+    },
+    {
+        "city": "Fquih Ben Salah",
+        "country": "MA"
+    },
+    {
+        "city": "Tiflet",
+        "country": "MA"
+    },
+    {
+        "city": "Oulad Teima",
+        "country": "MA"
+    },
+    {
+        "city": "Ait Melloul",
+        "country": "MA"
+    },
+    {
+        "city": "Ouazzane",
+        "country": "MA"
+    },
+    {
+        "city": "London",
+        "country": "GB"
+    },
+    {
+        "city": "New York",
+        "country": "US"
+    },
+    {
+        "city": "Tokyo",
+        "country": "JP"
+    },
+    {
+        "city": "Cairo",
+        "country": "EG"
+    },
+    {
+        "city": "Berlin",
+        "country": "DE"
+    },
+    {
+        "city": "Rome",
+        "country": "IT"
+    },
+    {
+        "city": "Madrid",
+        "country": "ES"
+    },
+    {
+        "city": "Istanbul",
+        "country": "TR"
+    },
+    {
+        "city": "Seoul",
+        "country": "KR"
+    },
+    {
+        "city": "Beijing",
+        "country": "CN"
+    },
+    {
+        "city": "Moscow",
+        "country": "RU"
+    },
+    {
+        "city": "Bangkok",
+        "country": "TH"
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "AR"
+    },
+    {
+        "city": "Toronto",
+        "country": "CA"
+    },
+    {
+        "city": "Johannesburg",
+        "country": "ZA"
+    },
+    {
+        "city": "Mexico City",
+        "country": "MX"
+    },
+    {
+        "city": "Vienna",
+        "country": "AT"
+    },
+    {
+        "city": "Lisbon",
+        "country": "PT"
+    },
+    {
+        "city": "Amsterdam",
+        "country": "NL"
+    },
+    {
+        "city": "Helsinki",
+        "country": "FI"
+    },
+    {
+        "city": "Oslo",
+        "country": "NO"
+    },
+    {
+        "city": "Athens",
+        "country": "GR"
+    },
+    {
+        "city": "Warsaw",
+        "country": "PL"
+    },
+    {
+        "city": "Budapest",
+        "country": "HU"
+    },
+    {
+        "city": "Prague",
+        "country": "CZ"
+    },
+    {
+        "city": "Santiago",
+        "country": "CL"
+    },
+    {
+        "city": "São Paulo",
+        "country": "BR"
+    },
+    {
+        "city": "Jakarta",
+        "country": "ID"
+    },
+    {
+        "city": "Manila",
+        "country": "PH"
+    },
+    {
+        "city": "Singapore",
+        "country": "SG"
+    },
+    {
+        "city": "Hanoi",
+        "country": "VN"
+    },
+    {
+        "city": "Delhi",
+        "country": "IN"
+    },
+    {
+        "city": "Bangalore",
+        "country": "IN"
+    },
+    {
+        "city": "Lagos",
+        "country": "NG"
+    },
+    {
+        "city": "Sydney",
+        "country": "AU"
+    },
+    {
+        "city": "Brussels",
+        "country": "BE"
+    },
+    {
+        "city": "Copenhagen",
+        "country": "DK"
+    },
+    {
+        "city": "Bogotá",
+        "country": "CO"
+    },
+    {
+        "city": "Rio de Janeiro",
+        "country": "BR"
+    },
+    {
+        "city": "Karachi",
+        "country": "PK"
+    },
+    {
+        "city": "Mumbai",
+        "country": "IN"
+    },
+    {
+        "city": "Dubai",
+        "country": "AE"
+    },
+    {
+        "city": "Chicago",
+        "country": "US"
+    },
+    {
+        "city": "Zurich",
+        "country": "CH"
+    },
+    {
+        "city": "Lima",
+        "country": "PE"
+    },
+    {
+        "city": "Tehran",
+        "country": "IR"
+    },
+    {
+        "city": "Baghdad",
+        "country": "IQ"
+    },
+    {
+        "city": "Manchester",
+        "country": "GB"
+    },
+    {
+        "city": "Birmingham",
+        "country": "GB"
+    },
+    {
+        "city": "Leeds",
+        "country": "GB"
+    },
+    {
+        "city": "Liverpool",
+        "country": "GB"
+    },
+    {
+        "city": "Sheffield",
+        "country": "GB"
+    },
+    {
+        "city": "Newcastle",
+        "country": "GB"
+    },
+    {
+        "city": "Bristol",
+        "country": "GB"
+    },
+    {
+        "city": "Nottingham",
+        "country": "GB"
+    },
+    {
+        "city": "Leicester",
+        "country": "GB"
+    },
+    {
+        "city": "Southampton",
+        "country": "GB"
+    },
+    {
+        "city": "Portsmouth",
+        "country": "GB"
+    },
+    {
+        "city": "Oxford",
+        "country": "GB"
+    },
+    {
+        "city": "Cambridge",
+        "country": "GB"
+    },
+    {
+        "city": "Paris",
+        "country": "FR"
+    },
+    {
+        "city": "Marseille",
+        "country": "FR"
+    },
+    {
+        "city": "Lyon",
+        "country": "FR"
+    },
+    {
+        "city": "Toulouse",
+        "country": "FR"
+    },
+    {
+        "city": "Nice",
+        "country": "FR"
+    },
+    {
+        "city": "Nantes",
+        "country": "FR"
+    },
+    {
+        "city": "Strasbourg",
+        "country": "FR"
+    },
+    {
+        "city": "Montpellier",
+        "country": "FR"
+    },
+    {
+        "city": "Bordeaux",
+        "country": "FR"
+    },
+    {
+        "city": "Lille",
+        "country": "FR"
+    },
+    {
+        "city": "Rennes",
+        "country": "FR"
+    },
+    {
+        "city": "Reims",
+        "country": "FR"
+    },
+    {
+        "city": "Saint-Étienne",
+        "country": "FR"
+    },
+    {
+        "city": "Toulon",
+        "country": "FR"
+    },
+    {
+        "city": "Dublin",
+        "country": "IE"
+    },
+    {
+        "city": "Cork",
+        "country": "IE"
+    },
+    {
+        "city": "Limerick",
+        "country": "IE"
+    },
+    {
+        "city": "Galway",
+        "country": "IE"
+    },
+    {
+        "city": "Waterford",
+        "country": "IE"
+    },
+    {
+        "city": "Drogheda",
+        "country": "IE"
+    },
+    {
+        "city": "Swords",
+        "country": "IE"
+    },
+    {
+        "city": "Dundalk",
+        "country": "IE"
+    },
+    {
+        "city": "Hamburg",
+        "country": "DE"
+    },
+    {
+        "city": "Munich",
+        "country": "DE"
+    },
+    {
+        "city": "Cologne",
+        "country": "DE"
+    },
+    {
+        "city": "Frankfurt",
+        "country": "DE"
+    },
+    {
+        "city": "Stuttgart",
+        "country": "DE"
+    },
+    {
+        "city": "Düsseldorf",
+        "country": "DE"
+    },
+    {
+        "city": "Dortmund",
+        "country": "DE"
+    },
+    {
+        "city": "Essen",
+        "country": "DE"
+    },
+    {
+        "city": "Bremen",
+        "country": "DE"
+    },
+    {
+        "city": "Dresden",
+        "country": "DE"
+    },
+    {
+        "city": "Leipzig",
+        "country": "DE"
+    },
+    {
+        "city": "Hannover",
+        "country": "DE"
+    },
+    {
+        "city": "Nuremberg",
+        "country": "DE"
+    },
+    {
+        "city": "Washington, D.C.",
+        "country": "US"
+    },
+    {
+        "city": "Ottawa",
+        "country": "CA"
+    },
+    {
+        "city": "Canberra",
+        "country": "AU"
+    },
+    {
+        "city": "Brasília",
+        "country": "BR"
+    },
+    {
+        "city": "Nairobi",
+        "country": "KE"
+    },
+    {
+        "city": "Abuja",
+        "country": "NG"
+    },
+    {
+        "city": "Pretoria",
+        "country": "ZA"
+    },
+    {
+        "city": "Stockholm",
+        "country": "SE"
+    },
+    {
+        "city": "Bern",
+        "country": "CH"
+    },
+    {
+        "city": "Kuala Lumpur",
+        "country": "MY"
+    },
+    {
+        "city": "Los Angeles",
+        "country": "US"
+    }
+]
