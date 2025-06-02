@@ -4,7 +4,7 @@ A dynamic weather application that allows users to search for any city and view 
 
 ---
 
-##Features
+## Features
 
 * City Autocomplete**: Suggestions as you type
 * Current Weather**: Displays temperature, feels-like temp, humidity, and an icon
@@ -15,7 +15,7 @@ A dynamic weather application that allows users to search for any city and view 
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 * JavaScript (Vanilla) *
 * HTML5 *
